@@ -73,7 +73,7 @@ REFERENCES "subcategory" ("subcategory_id");
 
 --Look at table
 
-SELECT * from contacts
-SELECT * from category
-SELECT * from subcategory
-SELECT * from campaign
+SELECT * from contacts;
+SELECT * from category;
+SELECT * from subcategory;
+SELECT * from campaign;
