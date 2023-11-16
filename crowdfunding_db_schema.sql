@@ -2,10 +2,11 @@
 
 --Drop Tables if exists
 
+DROP TABLE contacts CASCADE;
 DROP TABLE category CASCADE;
 DROP TABLE subcategory CASCADE;
 DROP TABLE campaign CASCADE;
-DROP TABLE contacts CASCADE;
+
 
 
 --Create Category Table
